@@ -3,7 +3,7 @@ Testing is done for my University project using Selenium WebDriver in Java langu
 
 ## Test Scenario:
 
-* Lunching Chrome Browser.
+* Launching Chrome Browser.
 * Verify login through entering username and password.
 * Verify logout button.
 * Verify the registration of Retailer through entering Username, password, confirm password, business name, business phone    number, business fax number, etc field values.
